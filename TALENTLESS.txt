@@ -178,7 +178,7 @@ creds.BorderSizePixel = 0
 creds.Position = UDim2.new(0.5, 0, 0.189999998, 0)
 creds.Size = UDim2.new(0, 314, 0, 26)
 creds.Font = Enum.Font.LuckiestGuy
-creds.Text = "piano autoplayer by hellohellohell012321"
+creds.Text = "script được tạo bởi sigmabotg"
 creds.TextColor3 = Color3.fromRGB(255, 254, 255)
 creds.TextScaled = true
 creds.TextSize = 14.000
@@ -412,7 +412,7 @@ if gameId == 3929033413 then
 
     spoofMidiInfo.MouseButton1Click:Connect(
         function()
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/spoofMidiInfo.lua", true))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmabotg/Explain/refs/heads/main/Idk"))()
         end
     )
 
